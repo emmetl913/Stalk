@@ -1,0 +1,122 @@
+[
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\Stalk.Build.cs",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\Stalk.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\Stalk.h",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\StalkCharacter.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\StalkCharacter.h",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\StalkGameMode.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\StalkGameMode.h",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\StalkPlayerController.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\StalkPlayerController.h",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\StalkProjectile.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\StalkProjectile.h",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\TP_PickUpComponent.h",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Engine Gaming\\Stalk\\Source\\Stalk\\TP_WeaponComponent.h",
+		"arguments": [
+			"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Engine Gaming\\Stalk\\.vscode\\compileCommands_Stalk\\Stalk.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine Gaming\\UE_5.4\\Engine\\Source"
+	}
+]
